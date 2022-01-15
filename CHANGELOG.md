@@ -2,6 +2,11 @@
 
 Firmware for the MFRESP8266 hardware.
 
+## [0.0.5] 2021-11-15
+
+### Bugfix
+- MQTT not connected to mqtt.dh.ctb.co.at
+
 ## [0.0.4] 2022-01-13 
 
 ### Changed
