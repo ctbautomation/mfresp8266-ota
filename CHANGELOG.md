@@ -7,6 +7,12 @@ Firmware for the MFRESP8266 hardware.
 ### Bugfix
 - MQTT not connected to mqtt.dh.ctb.co.at
 
+### Changed
+- Changed mqtt_server to to mqtt.dh.ctb.co.at in config.json
+
+### Update
+- Update certs.ar
+
 ## [0.0.4] 2022-01-13 
 
 ### Changed
